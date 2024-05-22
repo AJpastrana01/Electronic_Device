@@ -1,0 +1,16 @@
+Category,Brand,Model,Year,OS,ScreenSize
+Smartphone,Apple,iPhone 12,2020,iOS,
+Smartphone,Samsung,Galaxy S21,2021,Android,
+Smartphone,Google,Pixel 5,2020,Android,
+Smartphone,OnePlus,9 Pro,2021,Android,
+Smartphone,Xiaomi,Mi 11,2021,Android,
+Laptop,Apple,MacBook Air,2020,macOS,13.3
+Laptop,Dell,XPS 13,2021,Windows,13.4
+Laptop,Lenovo,ThinkPad X1,2020,Windows,14
+Laptop,HP,Spectre x360,2021,Windows,13.3
+Laptop,Microsoft,Surface Laptop,2020,Windows,13.5
+Computer,Apple,iMac,2020,macOS,
+Computer,Dell,Inspiron,2021,Windows,
+Computer,HP,Pavilion,2020,Windows,
+Computer,Lenovo,IdeaCentre,2021,Windows,
+Computer,Asus,ROG Strix,2020,Windows,
